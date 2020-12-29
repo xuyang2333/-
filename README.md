@@ -1,19 +1,11 @@
-# vue-ele2
+导入sql文件数据库名与sql文件名相同
 
-## Project setup
-```
+在vue-ele2目录下运行cmd 
+
+输入指令java -jar StudentInterface-1.0-SNAPSHOT.jar 
+
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
